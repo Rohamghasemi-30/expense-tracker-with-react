@@ -1,0 +1,12 @@
+@font-face {
+  src: url(./fonts/Vazir-Bold-FD-WOL.ttf);
+  font-family: Vazir-Bold;
+}
+
+body{
+  font-family: Vazir-Bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  direction: rtl;
+}

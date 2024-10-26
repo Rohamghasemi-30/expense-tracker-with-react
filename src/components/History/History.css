@@ -1,0 +1,14 @@
+.history-item {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: left;
+  }
+  
+  .history-item p {
+    margin: 0;
+    font-size: 14px;
+  }
+  
