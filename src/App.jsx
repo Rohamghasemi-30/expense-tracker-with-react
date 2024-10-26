@@ -1,4 +1,4 @@
-// src/App.js
+
 import React, { useReducer } from 'react';
 import Container from './components/Container/Container';
 

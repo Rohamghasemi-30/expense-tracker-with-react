@@ -1,4 +1,4 @@
-// src/components/Container.js
+
 import React from 'react';
 import ExpenseInput from '../ExpenseInput/ExpenseInput';
 import IncomeInput from '../IncomeInput/IncomeInput';
@@ -27,7 +27,7 @@ function Container({ state, dispatch }) {
 
   return (
     <div className='container'>
-      <h2>برنامه محاسبه درآمد و هزینه</h2>
+      <h2>محاسبه درآمد و هزینه</h2>
       <div className='inputs'>
         <ExpenseInput value={state.expense} onChange={handleExpenseChange} /><br />
         <IncomeInput value={state.income} onChange={handleIncomeChange} />
